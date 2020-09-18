@@ -213,7 +213,7 @@ namespace EQ2EmuLauncher
             sr.Close();
 
             if (strings[0].StartsWith("cl_ls_address"))
-                strings[0] = "cl_ls_address www.eq2emulator.net";
+                strings[0] = "cl_ls_address clientls.eq2emulator.net";
 
             for (int i = 0; i < strings.Count; i++)
             {
