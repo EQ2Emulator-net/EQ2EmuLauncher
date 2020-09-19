@@ -1,0 +1,16 @@
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\bin\Debug\EQ2EmuLauncher.exe.config
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\bin\Debug\EQ2EmuLauncher.exe
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\bin\Debug\EQ2EmuLauncher.pdb
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.AccountSettings.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.CharacterSettings.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.Clients.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.CustomServer.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.EQ2EmuLauncher.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.NewsFeed.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.Options.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.Properties.Resources.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.Resources.resources
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.csproj.GenerateResource.cache
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.csproj.CoreCompileInputs.cache
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.exe
+K:\Emulators\EQ2Emu\Source\EQ2 GitHub\EQ2EmuLauncher\EQ2EmuLauncher\obj\Debug\EQ2EmuLauncher.pdb

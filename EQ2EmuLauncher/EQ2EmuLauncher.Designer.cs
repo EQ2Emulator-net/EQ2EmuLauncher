@@ -210,6 +210,7 @@
             this.Controls.Add(this.btnEmu);
             this.Controls.Add(this.btnLaunch);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "EQ2EmuLauncher";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EQ2Emu Launcher";
