@@ -62,7 +62,7 @@ namespace EQ2EmuLauncher
                 // this will probably always be on the first line, but put it in the loop in the very rare occasion that it is not
                 if (strings[i].StartsWith("cl_ls_address"))
                 {
-                    if (strings[i] == "cl_ls_address www.eq2emulator.net")
+                    if (strings[i] == "cl_ls_address clientls.eq2emulator.net")
                         return LastSet.EQ2Emulator;
                     if (strings[i] == "cl_ls_address localhost" || strings[i] == "cl_ls_address 127.0.0.1")
                         return LastSet.Localhost;
